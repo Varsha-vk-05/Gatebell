@@ -40,4 +40,5 @@ Built with ❤️. Inspired by many DIY doorbell and intercom projects.
 This project is released under the MIT License. See `LICENSE` for details.
 
 ## Demo
-https://www.perplexity.ai/apps/2f961417-43ab-484c-a64b-73f888c263eb?16=d
+https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/762ba47aaf189fdd1245f171da3d1d00/9216dc85-81bd-49d7-aaa3-30fcee4535f5/index.html
+
