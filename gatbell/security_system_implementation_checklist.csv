@@ -1,0 +1,11 @@
+Component,Description,Priority,Dependencies
+Flask Backend Setup,Initialize Flask app with MongoDB,High,"Flask, PyMongo, Flask-JWT-Extended"
+User Authentication,Phone number login with debug mode,High,"JWT, MongoDB"
+Role-Based Access Control,Implement RBAC with JWT claims,High,Flask-JWT-Extended
+3D Frontend Components,React components with 3D CSS effects,Medium,"React, CSS3"
+API Endpoints,CRUD operations for all user roles,High,Flask-RESTful
+Database Models,MongoDB schemas for users and visitors,High,"PyMongo, Marshmallow"
+JWT Integration,Token-based authentication,High,Flask-JWT-Extended
+Debug Mode Toggle,Configuration-based debug mode,Medium,Config management
+3D CSS Animations,Hover effects and transitions,Low,CSS3 transforms
+Dashboard Components,Role-specific dashboards,Medium,React components
